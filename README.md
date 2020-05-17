@@ -1,5 +1,6 @@
 # Team Profile Generator
 ![Languages badge](https://img.shields.io/github/languages/count/jawalton6616/team-profile-generator)
+![Last commit badge](https://img.shields.io/github/last-commit/jawalton6616/team-profile-generator)
 ## Description:
 An easy to use Node application to create cards with team member roles and info.
 
